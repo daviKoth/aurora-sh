@@ -1,0 +1,11 @@
+# Krunker files to not use in Aurora app
+
+# CodSh weapon file
+*.codsh
+*.wpn
+
+# Non-Aurora files
+*.por
+*.krimg
+*.msg
+*.chat
