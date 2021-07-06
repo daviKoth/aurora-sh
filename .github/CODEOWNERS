@@ -1,6 +1,9 @@
 # GitHub Code owners
 
 # --------------------------------------
-/.aurora/rubyjs/specs/ @daviKoth/ruby-sh
+/.aurora/rubyjs/specs/* @daviKoth/ruby-sh
 # --------------------------------------
 /* @daviKoth/aurora_creators
+# --------------------------------------
+/.github/* @github/sh
+# --------------------------------------
