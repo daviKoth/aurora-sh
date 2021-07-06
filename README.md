@@ -1,6 +1,6 @@
 # I don't have Aurora installed, so i make it a Linux version.
 
-# aurora-sh
+# aurora version 1.15
 Aurora for Krunker to obtain 10000+ weapons when you reach level 8888
 (file:///home/davizinho/Desktop/Aurora.png)
 
